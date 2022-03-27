@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: ebae083e216f6a14e8ed882c4e8ece9b
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: 5865467476483718504
+    second: Bow_IDLE
+  - first:
+      74: -5870843077099120100
+    second: Bow_RUN
+  - first:
+      74: 925720867457282831
+    second: Bow_WALK
+  - first:
+      74: -7115185970240418665
+    second: Bow_JUMP
+  - first:
+      74: -7765776086244003486
+    second: Bow_JUMP_START
+  - first:
+      74: 2856186255206847780
+    second: Bow_JUMP_END
+  - first:
+      74: 8465645644183003423
+    second: Bow_FALL
+  - first:
+      74: 9021289909575505451
+    second: Bow_AIM
+  - first:
+      74: 3041292952714586352
+    second: Bow_AIM_IDLE
+  - first:
+      74: 6436897851983572096
+    second: Bow_DISARMED
+  - first:
+      74: 4577737525564074652
+    second: Bow_FIRE
+  - first:
+      74: -6679948110861908077
+    second: Bow_RELOAD
+  - first:
+      74: 7532137016972541975
+    second: Bow_FALL(no arrow)
+  - first:
+      74: 4773341716323036895
+    second: Bow_IDLE(no arrow)
+  - first:
+      74: 8482864573185894588
+    second: Bow_JUMP(no arrow)
+  - first:
+      74: -1890841953601280683
+    second: Bow_JUMP_END(no arrow)
+  - first:
+      74: 7521190978968524817
+    second: Bow_JUMP_START(no arrow)
+  - first:
+      74: 2886207577740537891
+    second: Bow_RUN(no arrow)
+  - first:
+      74: -4308432576026365063
+    second: Bow_WALK(no arrow)
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
